@@ -78,7 +78,7 @@
             "RESTART_DESC": "Restart LiyaMol",
             "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɴɢ ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ",
             "SHUTDOWN_DESC": "Shutdown LiyaMol",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "SHUTDOWN_MSG": "```Shutting down ❌️```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
