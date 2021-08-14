@@ -54,7 +54,7 @@
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
             "required": true,
-            "value": "^[#.!;]"
+            "value": "^[,.!;#]"
         },
         "FULL_EVA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -89,7 +89,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ⤎╾━━━•"
+            "value": "•━━━━╼⤏```ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ```⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
