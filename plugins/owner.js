@@ -43,7 +43,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pinky Bot created by *Afnan pallikkel*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'liyamol Bot created by *SAIDALI*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
