@@ -1,6 +1,6 @@
 /* Codded by @mrclfd // rapiUp
 Telegram: t.me/mrclfd
-Recode saidali
+Recode saidalisaid
 Semoga Berfaedah dan Berkah :)
 */
 
