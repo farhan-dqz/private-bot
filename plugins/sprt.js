@@ -49,11 +49,11 @@ await message.sendMessage(r_text[i]);
 
 else if (Config.WORKTYPE == 'public') {
 
-Asena.addCommand({pattern: 'pink', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "LiyaMole tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[1] = "LiyaMole tholpikkaan ningalkavilla. Jeevitathil liyamole tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "LiyaMol says i love you 😘";
 r_text[3] = "LiyaMoludeyude yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
