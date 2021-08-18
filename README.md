@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/8382372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="https://pin.it/vQEfnoh?v=4" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
