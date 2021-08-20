@@ -6,8 +6,6 @@
             alt="Typing SVG"
         />
     </a>
-</p>
-</p>
   <p align="center">
 <a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
