@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/typing-svg">
+   
         <img
             src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+LIYAMOL BOTS+codded+by+Saidali..."
             alt="Typing SVG"
