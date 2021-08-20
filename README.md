@@ -1,11 +1,24 @@
+
+
+
+
 <!-- Typing SVG -->
 <p align="center">
-   
+    <a href="https://git.io/typing-svg">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+LIYAMOL BOTS+codded+by+Saidali..."
             alt="Typing SVG"
         />
     </a>
+</p>
+
+
+
+
+
+
+
+
   <p align="center">
 <a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
