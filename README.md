@@ -1,12 +1,8 @@
-
-
-
-
 <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+LIYAMOL BOTS+codded+by+Saidali..."
+            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+BOT+codded+by+sunaif+adkar..."
             alt="Typing SVG"
         />
     </a>
