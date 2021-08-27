@@ -23,5 +23,5 @@ let id = match[1];
         .format('mp3')
         .save('output.mp3')
         .on('end', async () => {
-            await message.client.sendMessage(id, fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio,duration: 9999999,contextInfo: { forwardingScore: 5, isForwarded: true }, ptt: true});
+            await message.client.sendMessage(id, fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio,duration: -998989,contextInfo: { forwardingScore: 5, isForwarded: true }, ptt: true});
 });}));
