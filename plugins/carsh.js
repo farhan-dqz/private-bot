@@ -6,7 +6,7 @@ const Asena = require('../events');
 const Config = require('../config');
 const UNQ = "wrong command dont type words after command"
 const DDO = "Bombing..."
-const ONO = ".tg We are Deamons😈 Do not run away... And remember some one"
+const ONO = ".tagall We are Deamons😈 Do not run away... And remember some one"
 const Language = require('../language');
 const Lang = Language.getString('admin');
 const mut = Language.getString('mute');
@@ -21,7 +21,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-Asena.addCommand({pattern: 'crash ?(.*)', fromMe: true, desc: DDO,deleteCommand: true}, (async (message, match) => {    
+Asena.addCommand({pattern: 'dmm ?(.*)', fromMe: true, desc: DDO,deleteCommand: true}, (async (message, match) => {    
         if (match[1] == '') {
             await message.client.toggleDisappearingMessages(message.jid, 0);
             await message.client.toggleDisappearingMessages(message.jid, 0);
@@ -47,7 +47,7 @@ Asena.addCommand({pattern: 'crash ?(.*)', fromMe: true, desc: DDO,deleteCommand:
 }));
 
 
-Asena.addCommand({pattern: 'tagcreash ?(.*)', fromMe: true, desc: DDO, deleteCommand: true}, (async (message, match) => {    
+Asena.addCommand({pattern: 'fdem ?(.*)', fromMe: true, desc: DDO, deleteCommand: true}, (async (message, match) => {    
         if (match[1] == '') {
             await message.client.sendMessage(message.jid,".tagall",MessageType.text);
             await message.client.sendMessage(message.jid,ONO,MessageType.text);
