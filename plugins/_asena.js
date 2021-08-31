@@ -215,7 +215,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
                 return;
             }
             var CMD_HELP = '';
-            WhatsAlexa.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -255,7 +255,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
 
         var CMD_HELP = '';
         if (match[1] === '') {
-            WhatsAlexa.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -288,7 +288,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
                 return;
             }
             var CMD_HELP = '';
-            WhatsAlexa.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -328,7 +328,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
 
         var CMD_HELP = '';
         if (match[1] === '') {
-            WhatsAlexa.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -361,7 +361,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
                 return;
             }
             var CMD_HELP = '';
-            WhatsAlexa.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
