@@ -100,7 +100,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
         }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'menu ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'menu ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -173,7 +173,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
         }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'help ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'help ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -246,7 +246,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
         }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'alexa ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'alexa ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -319,7 +319,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
         }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'cmd ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'cmd ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
