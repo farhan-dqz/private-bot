@@ -1,92 +1,113 @@
-<!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ+BOT+codded+by+Saidali..."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+## WhatsApp User Bot
+This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
-
-
-
-
-
-
-
-  <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
-<p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
-</p>
-
-----
-
-  <p align="center">
-  <a href="https://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
-<p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-
+## What is WhatsAsena?
+**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
-<div align="center">
-
-  ### Simple Method
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/private-bot)
-     </div>
+1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that needs after 4th step (ASENA_SESSION).
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) and Follow.
 <br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+<a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+<br>
+<a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+<!-- 
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
 
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+|      Downloader       | Availability  |
+| :-----------------:   | :----------:  |
+| Mediafire             |     ✔️    |
+| Pinterest             |     ✔️    |
+| Saavn                 |     ✔️    |
+| Upload                |     ✔️    |
+| Twitter video         |     ✔️    |
+| SoundCloud            |     ✔️    |
+| Unsplash              |     ✔️    |
+| TikTok video          |     ✔️    |
+| Yta/Ytv               |     ✔️    |
+| Joox musics           |     ✔️    |
+| Instagram video/image |     ✔️    |
+| Instagram story       |     ✔️    |
+| Facebook photo/video  |     ✔️    |
+| YouTube audio/video   |     ✔️    |
 
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+
+
+|     Admin commands    | Availability |
+| :-----------------:   | :----------: |
+| Kick                  |     ✔️     |
+| Mute                  |     ✔️     |
+| Unmute                |     ✔️     |
+| Invite                |     ✔️     |
+| Revoke                |     ✔️     |
+| Tag                   |     ✔️     |
+| Add                   |     ✔️     |
+| Promote               |     ✔️     |
+| Demote                |     ✔️     |
+| Warn                  |     ✔️     |
+| Auto-mute             |     ✔️     |
+| Schedule messages     |     ✔️     |
+
+|  Misc Commands        |              Usage              |Availablity |
+| :-----------------:   | :-----------------------------: | :--------: |
+| Schedule messages     |     Sets Scheduled messages     |      ✔️    |
+| Vote                  |      You can set vote           |      ✔️    | 
+| Url                   |      gets url of image/video    |      ✔️    | 
+| Movie                 |      Shows Movie Info           |      ✔️    | 
+| Weather               |      Shows weather              |      ✔️    | 
+| Qr                    |      Reads Barcode              |      ✔️    | 
+| Alive                 |      to check alive or not      |      ✔️    | 
+| Find                  |      it finds replied song      |      ✔️    | 
+| Txt                   |      image to text              |      ✔️    | 
+| Reverse               |      it reverse a video         |      ✔️    | 
+| Merge                 |      it merge a videos          |      ✔️    | 
+| Mp3                   |      video to mp3               |      ✔️    | 
+| Voice                 |      voice to mp3               |      ✔️    | 
+| Cut                   |      Cuts mp3                   |      ✔️    | 
+| Trim                  |      trims video                |      ✔️    |  
+| Removebg              |      removes background         |      ✔️    | 
+| Pdf                   |      images to pdf by pages     |      ✔️    | 
+| Topdf                 |      single page pdf            |      ✔️    | 
+| Sticker               |      photo/video to sticker     |      ✔️    | 
+| Emoji                 |      emoji to sticker           |      ✔️    | 
+| Attp                  |      coloured teext sticker     |      ✔️    | 
+| Wasted                |      wasted logo                |      ✔️    | 
+| Trigged               |      trigged effect             |      ✔️    | 
+| Wiki                  |      wikipedia search           |      ✔️    | 
+| Google                |      Google image search        |      ✔️    | 
+| Ss                    |      Screedshot of web          |      ✔️    | 
+| Upload                |      Uploads medias             |      ✔️    | 
+| Whois                 |      group or individual data   |      ✔️    | 
+| Mp4                   |      sticker to video           |      ✔️    | 
+| Take                  |      other sticker with our name|      ✔️    | 
+| Setstatus             |      sets status                |      ✔️    | 
+| Setabout              |      seta bio                   |      ✔️    | 
+| Trt                   |      translates languages       |      ✔️    | 
+| Forward               |      Forwarding media with jid  |      ✔️    | 
+| Welcome               |      sets welcome               |      ✔️    | 
+| Goodbye               |      sets goodbye               |      ✔️    | 
+| Banbye                |      sets BanBye                |      ✔️    | 
+| Lydia                 |      Auto AI chat               |      ✔️    | 
+| Getjids               |      gets jids of group         |      ✔️    |  
+| Common                |      Checcks common members     |      ✔️    |  
+| Diff                  |      check diffrence members    |      ✔️    |  
+| Afk                   |      away from keyboard         |      ✔️    | 
+| Pitch/low/bass        |      Audio effects              |      ✔️    | 
+| Unvoice               |      audio to voices            |      ✔️    | 
+| Compress              |      compresses video           |      ✔️    | 
+| Meme                  |      text on photos             |      ✔️    | 
+| Histo/vector/aves     |     Audio to video              |      ✔️    | 
+| Block/unblock         |      blocks&unblocks members    |      ✔️    | 
+| Compress              |      check diffrence members    |      ✔️    |   
+
   
-## Developers
-  <div align="center">
-    
-  [![saidali](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[Saidali](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+  
+## Thanks To
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys) 
