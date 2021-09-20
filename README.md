@@ -75,7 +75,8 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Trim                  |      Trims video                 |
 |   ✔️   | Find                  |      It finds  song              |
 |   ✔️   | Attp                  |      Coloured text sticker       |
-|   ✔️   | Alive                 |      To check alive or not       | 
+|   ✔️   | Alive                 |      To check alive or not       |
+|   ✔️   | Whois                 |      Group or individual data    | 
 |   ✔️   | Movie                 |      Shows Movie Info            |
 |   ✔️   | Merge                 |      It merge a videos           |
 |   ✔️   | Voice                 |      Voice to mp3                |
@@ -91,7 +92,6 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Compress              |      Compresses video            |
 |   ✔️   | Google                |      Google image search         |
 |   ✔️   | Upload                |      Uploads medias              |
-|   ✔️   | Whois                 |      Group or individual data    |
 |   ✔️   | Weather               |      Shows weather               |
 |   ✔️   | Getjids               |      Gets jids of group          | 
 |   ✔️   | Removebg              |      Removes background          |
